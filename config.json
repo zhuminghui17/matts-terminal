@@ -1,0 +1,35 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/RishiRavula/RishiRavula/refs/heads/main/shortened.md",
+  "title": "Rishi's Website",
+  "name": "Rishi Ravula",
+  "ascii": "Hi! I'm Rishi",
+  "social": {
+    "github": "https://github.com/RishiRavula",
+    "linkedin": "rishi-ravula"
+  },
+  "email": "rishi.ravula@gmail.com",
+  "ps1_hostname": "myserver",
+  "ps1_username": "visitor",
+  "repo": "",
+  "resume_url": "https://github.com/RishiRavula/MyResume/blob/main/Rishi_Ravula.pdf",
+  "colors": {
+    "light": {
+      "background": "#F4FBF4",
+      "foreground": "#5E6E5E",
+      "yellow": "#98981B",
+      "green": "#29A329",
+      "gray": "#809980",
+      "blue": "#3D62F5",
+      "red": "#E6193C"
+    },
+    "dark": {
+      "background": "#1f2430",
+      "foreground": "#cbccc6",
+      "yellow": "#fad07b",
+      "green": "#a6cc70",
+      "gray": "#686868",
+      "blue": "#6dcbfa",
+      "red": "#ed8274"
+    }
+  }
+}
