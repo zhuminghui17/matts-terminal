@@ -1,5 +1,5 @@
-This is my personal website!
-You can check it out live at [rishiravula.fyi](https://rishiravula.fyi)
+# Matt's Terminal
+Live on https://matts-terminal.vercel.app/
 ## Tech Stack
 - Typescript
 - React
@@ -7,3 +7,5 @@ You can check it out live at [rishiravula.fyi](https://rishiravula.fyi)
 - Tailwind CSS
 
 <!-- ![alt text](image.png) -->
+
+Credit goes to [rishiravula.fyi](https://rishiravula.fyi)
