@@ -1,17 +1,17 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/RishiRavula/RishiRavula/refs/heads/main/shortened.md",
-  "title": "Rishi's Website",
-  "name": "Rishi Ravula",
-  "ascii": "Hi! I'm Rishi",
+  "readmeUrl": "https://github.com/zhuminghui17/zhuminghui17/blob/main/README.md",
+  "title": "Matt Zhu's Terminal",
+  "name": "Matt Zhu",
+  "ascii": "Hi! I'm Matt",
   "social": {
-    "github": "RishiRavula",
-    "linkedin": "rishi-ravula"
+    "github": "zhuminghui17",
+    "linkedin": "zhuminghui17"
   },
-  "email": "rishi.ravula@gmail.com",
+  "email": "mzhuduke@gmail.com",
   "ps1_hostname": "myserver",
   "ps1_username": "visitor",
-  "repo": "https://github.com/RishiRavula/MyWebsite",
-  "resume_url": "https://github.com/RishiRavula/MyResume/blob/main/Rishi_Ravula.pdf",
+  "repo": "https://github.com/zhuminghui17/matts-terminal",
+  "resume_url": "",
   "colors": {
     "light": {
       "background": "#F4FBF4",

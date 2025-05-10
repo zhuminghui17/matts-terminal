@@ -6,4 +6,4 @@ You can check it out live at [rishiravula.fyi](https://rishiravula.fyi)
 - Next.js
 - Tailwind CSS
 
-![alt text](image.png)
+<!-- ![alt text](image.png) -->
