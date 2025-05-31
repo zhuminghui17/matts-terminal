@@ -1,5 +1,5 @@
 # Matt's Terminal
-Live on https://matts-terminal.vercel.app/
+Live on https://server.mattzhu.net/
 ## Tech Stack
 - Typescript
 - React
