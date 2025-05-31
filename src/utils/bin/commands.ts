@@ -61,6 +61,11 @@ export const bing = async (args: string[]): Promise<string> => {
   return `Wow, really? You actually use Bing? Leave.`;
 };
 
+// TIL
+export const til = async (args: string[]): Promise<string> => {
+  window.open(`https://til.mattzhu.net/`);
+  return `Opening TIL...`;
+};
 
 // Typical linux commands
 export const echo = async (args: string[]): Promise<string> => {
